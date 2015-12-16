@@ -1,0 +1,7 @@
+---
+Name: responsiveimagessrcset
+After: reponsiveimages
+---
+Injector:
+  ResponsiveImageExtension:
+    class: ResponsiveImageSrcSetExtension
