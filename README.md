@@ -34,4 +34,9 @@ ResponsiveImageExtension:
 	  retina: true
 ```
 
+### Notes:
+
+- A polyfill is required for IE 11 & below.
+- This has only been tested with min-width queries.
+
 After installing via composer, you must */dev/build* and flush
